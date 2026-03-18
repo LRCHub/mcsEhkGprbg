@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "base_track": "シュガーソングとビターステップ",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-03-18T16:11:28.899202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/02_シュガーソングとビターステップ_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ - Sugar Song To Bitter Step",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/03_シュガーソングとビターステップ_-_Sugar_Song_To_Bitter_Step_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/04_シュガーソングとビターステップ_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/05_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "BENI",
+      "has_synced": false,
+      "path": "select/06_シュガーソングとビターステップ_BENI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "MaiR",
+      "has_synced": true,
+      "path": "select/07_シュガーソングとビターステップ_MaiR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "Tomohisa Sako",
+      "has_synced": true,
+      "path": "select/08_シュガーソングとビターステップ_Tomohisa_Sako.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ (BONUS TRACK)",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/09_シュガーソングとビターステップ_(BONUS_TRACK)_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "佐咲紗花",
+      "has_synced": false,
+      "path": "select/10_シュガーソングとビターステップ_佐咲紗花.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シュガーソングとビターステップ",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/11_シュガーソングとビターステップ_まらしぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/localdb_01_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.lrc",
+      "repo_name": "ERLEeGVWYxg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "シュガーソングとビターステップ",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/localdb_02_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.lrc",
+      "repo_name": "JpCyeo_kNA0"
+    }
+  ]
+}
