@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "シュガーソングとビターステップ",
   "base_artist": "UNISON SQUARE GARDEN",
-  "createdAt": "2026-03-31T16:57:14.618915Z",
+  "createdAt": "2026-04-03T20:51:32.742572Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -105,9 +105,9 @@
       "source": "localdb",
       "title": "シュガーソングとビターステップ",
       "artist": "UNISON SQUARE GARDEN",
-      "has_synced": true,
-      "path": "select/localdb_01_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.lrc",
-      "repo_name": "mcsEhkGprbg"
+      "has_synced": false,
+      "path": "select/localdb_01_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.txt",
+      "repo_name": "JpCyeo_kNA0"
     },
     {
       "id": "localdb_2",
@@ -116,7 +116,7 @@
       "artist": "UNISON SQUARE GARDEN",
       "has_synced": true,
       "path": "select/localdb_02_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.lrc",
-      "repo_name": "ERLEeGVWYxg"
+      "repo_name": "mcsEhkGprbg"
     },
     {
       "id": "localdb_3",
@@ -125,7 +125,7 @@
       "artist": "UNISON SQUARE GARDEN",
       "has_synced": true,
       "path": "select/localdb_03_シュガーソングとビターステップ_UNISON_SQUARE_GARDEN.lrc",
-      "repo_name": "JpCyeo_kNA0"
+      "repo_name": "ERLEeGVWYxg"
     }
   ]
 }
